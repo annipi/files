@@ -1,0 +1,17 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\2. ArquitecturaMisional - Estrategia TI\03. Guias
+
+28/01/2020  10:45 a. m.    <DIR>          .
+28/01/2020  10:45 a. m.    <DIR>          ..
+27/01/2020  07:11 p. m.           284.550 01. Gu¡a para el dise¤o e implementaci¢n de una estrategia de seguridad de la informaci¢n.pdf
+09/10/2018  12:06 a. m.           681.776 02. Gu¡a del dominio de Estrategia TI.pdf
+09/10/2018  12:06 a. m.           785.613 03. Guia Estructura Plan PETI.pdf
+09/10/2018  12:06 a. m.           508.548 04. Gu¡a para el dise¤o e implementaci¢n de una estrategia de seguridad de la informaci¢n.pdf
+09/10/2018  12:06 a. m.           470.642 05. Gu¡a para la definici¢n del portafolio de servicios de TI.pdf
+09/10/2018  12:06 a. m.           504.263 06. Gu¡a para la definici¢n y dise¤o de una pol¡tica de TI.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:45 a. m.                 0 lista.txt
+               8 archivos      3.235.484 bytes
+               2 dirs  447.122.788.352 bytes libres

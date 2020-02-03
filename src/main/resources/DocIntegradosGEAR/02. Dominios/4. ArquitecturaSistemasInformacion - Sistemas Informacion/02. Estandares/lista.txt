@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\4. ArquitecturaSistemasInformacion - Sistemas Informacion\02. Estandares
+
+28/01/2020  10:51 a. m.    <DIR>          .
+28/01/2020  10:51 a. m.    <DIR>          ..
+09/10/2018  12:06 a. m.           807.525 01. SIS-marco_de referencia AE-estandares_industria.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:51 a. m.                 0 lista.txt
+               3 archivos        807.617 bytes
+               2 dirs  447.122.616.320 bytes libres

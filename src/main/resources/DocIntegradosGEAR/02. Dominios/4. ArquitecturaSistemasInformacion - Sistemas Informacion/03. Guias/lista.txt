@@ -1,0 +1,15 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\4. ArquitecturaSistemasInformacion - Sistemas Informacion\03. Guias
+
+28/01/2020  10:52 a. m.    <DIR>          .
+28/01/2020  10:52 a. m.    <DIR>          ..
+09/10/2018  12:06 a. m.         1.480.583 01. Gu¡a del dominio de Sistemas de Informaci¢.pdf
+09/10/2018  12:06 a. m.           437.574 02. Gu¡a T‚cnica de Sistemas de Informacion - Trazabilidad.pdf
+09/10/2018  12:06 a. m.            12.450 03. Intrumento de Gu¡a Como construir el catalogo de componentes de Informaci¢n.ods
+27/01/2020  07:24 p. m.         1.737.392 04. Gu¡a de Arquitectura de Soluciones Tecnol¢gicas.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:52 a. m.                 0 lista.txt
+               6 archivos      3.668.091 bytes
+               2 dirs  447.122.538.496 bytes libres

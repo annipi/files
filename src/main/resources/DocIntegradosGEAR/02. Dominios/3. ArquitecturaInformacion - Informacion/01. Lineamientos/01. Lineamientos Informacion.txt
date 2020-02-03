@@ -1,0 +1,47 @@
+Información
+
+
+Responsabilidad y gestión de Componentes de información - LI.INF.01
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir las directrices y liderar la gestión de los Componentes de información durante su ciclo de vida. Así mismo, debe trabajar en conjunto con las dependencias para establecer acuerdos que garanticen la calidad de la información.
+
+Plan de calidad de los componentes de información - LI.INF.02
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con un plan de calidad de los componentes de información que incluya etapas de aseguramiento, control e inspección, medición de indicadores de calidad, actividades preventivas, correctivas y de mejoramiento continuo de la calidad de los componentes.
+
+Gobierno de la Arquitectura de Información - LI.INF.03
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir, implementar y gobernar la Arquitectura de Información, estableciendo métricas e indicadores de seguimiento, gestión y evolución de dicha arquitectura.
+
+Gestión de documentos electrónicos - LI.INF.04
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe establecer un programa para la gestión de documentos y expedientes electrónicos y contemplar dichos componentes dentro de la Arquitectura de Información de la institución.
+
+Definición y caracterización de la información georeferenciada - LI.INF.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe acoger la normatividad, los estándares relacionados de la Infraestructura Colombiana de Datos Espaciales (ICDE), los lineamientos de política de información geográfica y demás instrumentos vigentes que rijan la información geográfica según el Comité Técnico de Normalización, y disponer en el Portal Geográfico Nacional aquella información oficial útil para el desarrollo de proyectos de interés nacional y estratégicos.
+
+Lenguaje común de intercambio de componentes de información - LI.INF.06
+Se debe utilizar el lenguaje común para el intercambio de información con otras instituciones. Si el lenguaje no incorpora alguna definición que sea requerida a escala institucional o sectorial, la dirección de Tecnologías y Sistemas de la Información o quien haga sus veces deberá solicitar la inclusión al Ministerio de las TIC para que pueda ser utilizada por otras instituciones y quede disponible en el portal de Lenguaje común de intercambio de información del Estado colombiano.
+
+Directorio de servicios de Componentes de información - LI.INF.07
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe crear y mantener actualizado un directorio de los Componentes de información. La institución es responsable de definir el nivel de acceso de este directorio teniendo en cuenta la normatividad asociada. Este directorio debe hacer parte del directorio de Componentes de información sectorial, el cual debe ser consolidado a través de la cabeza de sector, con el fin de promover y facilitar el consumo, re-uso, ubicación y entendimiento, entre otros de los Componentes de información.
+
+Publicación de los servicios de intercambio de Componentes de información - LI.INF.08
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe publicar los servicios de intercambio de información a través de la Plataforma de Interoperabilidad del Estado colombiano.
+
+Canales de acceso a los Componentes de información - LI.INF.09
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe garantizar los mecanismos que permitan el acceso a los servicios de información por parte de los diferentes grupos de interés, contemplando características de accesibilidad, seguridad y usabilidad.
+
+Mecanismos para el uso de los Componentes de información - LI.INF.10
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe impulsar el uso de su información a través de mecanismos sencillos, confiables y seguros, para el entendimiento, análisis y aprovechamiento de la información por parte de los grupos de interés.
+
+Acuerdos de intercambio de Información - LI.INF.11
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe establecer los Acuerdos de Nivel de Servicio (ANS) con las dependencias o instituciones para el intercambio de la información de calidad, que contemplen las características de oportunidad, disponibilidad y seguridad que requieran los Componentes de información.
+
+Fuentes unificadas de información - LI.INF.12
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe garantizar la existencia de fuentes únicas de información, para que el acceso sea oportuno, relevante, confiable, completo, veraz y comparable.
+
+Hallazgos en el acceso a los Componentes de información - LI.INF.13
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe generar mecanismos que permitan a los consumidores de los Componentes de información reportar los hallazgos encontrados durante el uso de los servicios de información.
+
+Protección y privacidad de Componentes de información - LI.INF.14
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe incorporar, en los atributos de los Componentes de información, la información asociada con los responsables y políticas de la protección y privacidad de la información, conforme con la normativa de protección de datos de tipo personal y de acceso a la información pública.
+
+Auditoría y trazabilidad de Componentes de información - LI.INF.15
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir los criterios necesarios para asegurar la trazabilidad y auditoría sobre las acciones de creación, actualización, modificación o borrado de los Componentes de información. Estos mecanismos deben ser considerados en el proceso de gestión de dicho Componentes. Los sistemas de información deben implementar los criterios de trazabilidad y auditoría definidos para los Componentes de información que maneja.

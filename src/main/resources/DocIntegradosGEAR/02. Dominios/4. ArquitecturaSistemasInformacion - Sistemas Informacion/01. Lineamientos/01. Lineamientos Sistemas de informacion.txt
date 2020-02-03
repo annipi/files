@@ -1,0 +1,74 @@
+Sistemas de información
+
+
+Definición estratégica de los sistemas de información - LI.SIS.01
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir y documentar la arquitectura de los sistemas de información de la institución identificando los diferentes componentes y la forma en que interactuan entre sí, así como la relación con los demás dominios de la Arquitectura Empresarial.
+
+Catálogo de sistemas de información - LI.SIS.02
+La institución debe disponer un catálogo actualizado de sus sistemas de información, que incluya atributos que permitan identificar la información relevante que facilite la gobernabilidad de los mismos. Las entidades cabeza de sector adicionalmente deben consolidar y mantener actualizado el catálogo de sistemas de información sectorial.
+
+Arquitecturas de referencia de sistemas de información - LI.SIS.03
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces es la responsable de definir y evolucionar las arquitecturas de referencia de los sistemas de información, con el propósito de orientar el diseño de cualquier arquitectura de solución bajo parámetros, patrones y atributos de calidad definidos.
+
+Arquitecturas de solución de sistemas de información - LI.SIS.04
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe garantizar la documentación y actualización de la arquitectura de solución de los sistemas de información de la institución bajo las parámetros de las arquitecturas de referencia definidas.
+
+Metodología de referencia para el desarrollo de sistemas de información - LI.SIS.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir una metodología formal para el desarrollo y mantenimiento de software, que oriente los proyectos de construcción o evolución de los sistemas de información que se desarrollen a la medida, ya sea internamente o a través de terceros.
+
+Derechos patrimoniales sobre los sistemas de información - LI.SIS.06
+Cuando se suscriban contratos con terceras partes bajo la figura de "obra creada por encargo" o similar, cuyo alcance incluya el desarrollo de elementos de software, la entidad debe incluir en dichos contratos, la obligación de transferir a la institución los derechos patrimoniales sobre los productos desarrollados.
+
+Guía de estilo y usabilidad - LI.SIS.07
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir o adoptar una guía de estilo y usabilidad para la institución. Esta guía debe estar aplicada de acuerdo a la caracterización de usuarios y según el canal utilizado por los sistemas de información y, así mismo, debe estar alineada con los principios de usabilidad definidos por el Estado colombiano, asegurando la aplicación de la guia en todos sus sistemas de información. Para los componentes de software, que sean propiedad de terceros, se debe realizar su personalización hasta donde sea posible de manera que se pueda brindar una adecuada experiencia de usuario.
+
+Apertura de datos - LI.SIS.08
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe asegurar que en el diseño e implementación de sus sistemas de información se incorporen funcionalidades que faciliten la generación de datos abiertos. Así mismo, se deben automatizar los procesos de extraccion de los sistemas de información fuente, para la generación y publicación de conjuntos de datos abiertos.
+
+Interoperabilidad - LI.SIS.09
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe desarrollar los mecanismos necesarios para compartir su información haciendo uso del Modelo de Interoperabilidad definido por el Estado a partir de las necesidades de intercambio de información con otras entidades.
+
+Soporte a los Componentes de información - LI.SIS.10
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe garantizar que los sistemas de información soporten la arquitectura y componentes de información establecidos por la entidad.
+
+Ambientes independientes en el ciclo de vida de los sistemas de información - LI.SIS.11
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe identificar y mantener la independencia de los ambientes requeridos durante el ciclo de vida de los sistemas de información, ya sea directamente o través de un tercero. Ejemplos de ambientes son: desarrollo, pruebas, capacitación, producción.
+
+Análisis de requerimientos de los sistemas de información - LI.SIS.12
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe incorporar un proceso formal de análisis y gestión de requerimientos de software en el ciclo de vida de los sistemas de información de manera que se garantice su trazabilidad y cumplimiento.
+
+Integración continua durante el ciclo de vida de los sistemas de información - LI.SIS.13
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe garantizar que dentro del proceso de desarrollo de sistemas de información, se ejecuten estrategias de integración continua sobre los nuevos desarrollos de sistemas de información.
+
+Plan de pruebas durante el ciclo de vida de los sistemas de información - LI.SIS.14
+En el proceso de desarrollo y evolución de un sistema de información, la dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con un plan de pruebas que cubra lo funcional y lo no funcional. La aceptación de cada una de las etapas de este plan debe estar vinculada a la transición del sistema de información a través de los diferentes ambientes.
+
+Plan de capacitación y entrenamiento para los sistemas de información - LI.SIS.15
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe realizar constantemente capacitación y entrenamiento funcional y técnico a los usuarios, con el fin de fortalecer el uso y apropiación de los sistemas de información.
+
+Manual del usuario, técnico y de operación de los sistemas de información - LI.SIS.16
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe asegurar que todos sus sistemas de información cuenten con la documentación técnica y funcional debidamente actualizada.
+
+Gestión de cambios de los sistemas de información - LI.SIS.17
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir e implementar formalmente un procedimiento de control de cambios para los sistemas de información de la institución.
+
+Estrategia de mantenimiento de los sistemas de información - LI.SIS.18
+Para el mantenimiento de los sistemas de información, la dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe hacer un análisis de impacto ante cualquier solicitud de cambio en alguno de sus componentes, con el fin de determinar la viabilidad del cambio y las acciones a seguir.
+
+Servicios de mantenimiento de sistemas de información con terceras partes - LI.SIS.19
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe establecer criterios de aceptación y definir Acuerdos de Nivel de Servicio (ANS) cuando se tenga contratado con terceros el mantenimiento de los sistemas de información. Los ANS se deben aplicar en las etapas del ciclo de vida de los sistemas de Información que así lo requieran y se debe velar por la continuidad del servicio.
+
+Plan de calidad de los sistemas de información - LI.SIS.20
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe implementar un plan de aseguramiento de la calidad durante el ciclo de vida de los sistemas de información.
+
+Criterios no funcionales y de calidad de los sistemas de información - LI.SIS.21
+En la construcción o modificación de los Sistemas de Información, la Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe identificar los requisitos no funcionales aplicables, garantizando su cumplimiento una vez entre en operación el sistema.
+
+Seguridad y privacidad de los sistemas de información - LI.SIS.22
+Durante todas las fases del ciclo de vida de los sistemas de información, la Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe analizar e incorporar aquellos componentes de seguridad y privacidad de la información que sean necesarios.
+
+Auditoría y trazabilidad de los sistemas de información - LI.SIS.23
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe desarrollar mecanismos que aseguren el registro histórico de las acciones realizadas por los usuarios sobre los Sistemas de Información, manteniendo la trazabilidad y apoyando los procesos de auditoria.
+
+Accesibilidad - LI.SIS.24
+Los sistemas de información que estén disponibles para el acceso a la ciudadanía o aquellos que de acuerdo a la caracterización de usuarios lo requieran, deben cumplir con las funcionalidades de accesibilidad que indica la estrategia de Gobierno en Línea.

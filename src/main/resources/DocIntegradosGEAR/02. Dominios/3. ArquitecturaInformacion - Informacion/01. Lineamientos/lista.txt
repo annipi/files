@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\3. ArquitecturaInformacion - Informacion\01. Lineamientos
+
+28/01/2020  10:50 a. m.    <DIR>          .
+28/01/2020  10:50 a. m.    <DIR>          ..
+28/01/2020  09:21 a. m.             6.358 01. Lineamientos Informacion.txt
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:50 a. m.                 0 lista.txt
+               3 archivos          6.450 bytes
+               2 dirs  447.121.772.544 bytes libres

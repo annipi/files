@@ -1,0 +1,20 @@
+50 DocIntegradosGEAR\01. Manuales GEAR
+50 DocIntegradosGEAR\02. Dominios\0. General
+50 DocIntegradosGEAR\02. Dominios\1. PlaneacionArquitectura - Gobierno TI
+50 DocIntegradosGEAR\02. Dominios\2. ArquitecturaMisional - Estrategia TI
+50 DocIntegradosGEAR\02. Dominios\3. ArquitecturaInformacion - Informacion
+50 DocIntegradosGEAR\02. Dominios\4. ArquitecturaSistemasInformacion - Sistemas Informacion
+50 DocIntegradosGEAR\02. Dominios\5. ArquitecturaInfraestructuraTI - Servicios Tecnologicos
+50 DocIntegradosGEAR\02. Dominios\6. ArquitecturaSeguridad
+50 DocIntegradosGEAR\02. Dominios\7. UsoApropiacion
+50 DocIntegradosGEAR\02. Dominios\8. Negocio - MIPG
+50 DocIntegradosGEAR\02. Dominios
+50 DocIntegradosGEAR\03. Sectorial\00. WebScrap
+50 DocIntegradosGEAR\03. Sectorial
+50 DocIntegradosGEAR\04. Interoperabilidad
+50 DocIntegradosGEAR\05. Leyes Reglamentacion
+Files:        80
+Directories:  54
+Size:         13,900,853 bytes
+Size on disk: 14,396,656 bytes
+

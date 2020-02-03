@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\5. ArquitecturaInfraestructuraTI - Servicios Tecnologicos\04. MejoresPracticas
+
+28/01/2020  10:53 a. m.    <DIR>          .
+28/01/2020  10:53 a. m.    <DIR>          ..
+09/10/2018  12:06 a. m.           378.980 01. AE mejores practicas-servicios tecnologico.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:53 a. m.                 0 lista.txt
+               3 archivos        379.072 bytes
+               2 dirs  447.122.341.888 bytes libres

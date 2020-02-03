@@ -1,0 +1,47 @@
+Gobierno TI
+
+
+Alineación del gobierno de TI - LI.GO.01
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir e implementar un esquema de Gobierno TI alineado con la estrategia misional y con el Modelo Integrado de Planeación y Gestión, que estructure y direccione el flujo de las decisiones de TI.
+
+Apoyo de TI a los procesos - LI.GO.02
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe apoyar la especificación de las necesidades de sistematización y demás apoyo tecnológico requerido por los procesos de la institución, de tal manera que se incorporen facilidades tecnológicas que contribuyan a mejorar la articulación, calidad, eficiencia, seguridad y reducir los costos de operación.
+
+Conformidad - LI.GO.03
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir e incorporar dentro de su plan estratégico, acciones que permitan corregir, mejorar y controlar procesos de TI que se encuentren dentro de la lista de no conformidades generada en el marco de las auditorias de control interno y externo, a fin de contribuir con el compromiso de mejoramiento continuo de la administración pública de la institución.
+
+Macro-proceso de gestión de TI - LI.GO.04
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe estructurar e implementar un macro-proceso de gestión de TI, según los lineamientos del Modelo Integrado de Planeación y Gestión de la institución y teniendo en cuenta las buenas prácticas del Modelo de gestión estratégica de TI.
+
+Capacidades y recursos de TI - LI.GO.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe generar, direccionar, evaluar y monitorear las capacidades de TI , asegurando el adecuado aprovisionamiento del talento humano y los recursos necesarios para ofrecer los servicios de TI de la institución.
+
+Optimización de las compras de TI - LI.GO.06
+La entidad debe realizar las compras de bienes o servicios de Tecnología a través de Acuerdos Marco de Precios (AMP) existentes, en caso de que apliquen, y dar prioridad a adquisiciones en modalidad de servicio o por demanda. Debe además propender por minimizar la compra de bienes de hardware.
+
+Criterios de adopción y de compra de TI - LI.GO.07
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir los criterios y metodologías que direccionen la toma de decisiones de inversión en Tecnologías de la Información (TI), buscando el beneficio económico y de servicio de la institución.
+
+Retorno de la inversión de TI - LI.GO.08
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe establecer la relación costo-beneficio y justificar la inversión de los proyectos de TI mediante casos de negocio e indicadores financieros.
+
+Liderazgo de proyectos de TI - LI.GO.09
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe liderar la planeación, ejecución y seguimiento a los proyectos de TI. En aquellos casos en que los proyectos estratégicos de la institución incluyan componentes de TI y sean liderados por otras áreas, la dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, deberá supervisar el trabajo sobre el componente de TI conforme con los lineamientos de la Arquitectura Empresarial de la institución.
+
+Gestión de proyectos de TI - LI.GO.10
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe gestionar todas las iniciativas y proyectos de TI, utilizando una metodologia formal de gestión de proyectos que incorpore el uso de lecciones aprendidas y un esquema de gestión de cambios.
+
+Indicadores de gestión de los proyectos de TI - LI.GO.11
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe monitorear y hacer seguimiento a la ejecución de los proyectos de TI, por medio de un conjunto de indicadores de alcance, tiempo, costo y calidad que permitan identificar desviaciones y tomar las acciones correctivas pertinentes.
+
+Evaluación del desempeño de la gestión de TI - LI.GO.12
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe realizar el monitoreo y evaluación de desempeño de la gestión de TI a partir de las mediciones de los indicadores del macro-proceso de Gestión TI y demás que haya definido la entidad.
+
+Mejoramiento de los procesos - LI.GO.13
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe identificar oportunidades de mejora en los procesos de TI, de modo que pueda focalizar esfuerzos en el optimización de estos a través de las TI para contribuir con el cumplimiento de los objetivos institucionales y del sector o territorio.
+
+Gestión de proveedores de TI - LI.GO.14
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe administrar todos los proveedores y contratos asociados con los proyectos de TI. Durante el proceso contractual se debe aplicar un esquema de dirección, supervisión, seguimiento, control y recibo a satisfacción de los bienes y servicios contratados.
+
+Transferencia de información y conocimiento - LI.GO.15
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe gestionar la adecuada transferencia de información y conocimiento asociado a los bienes y servicios de TI contratados por la institución.

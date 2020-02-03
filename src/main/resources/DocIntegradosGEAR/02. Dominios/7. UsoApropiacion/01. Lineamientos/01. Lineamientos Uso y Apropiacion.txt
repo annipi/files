@@ -1,0 +1,32 @@
+Uso y apropiación
+
+
+Estrategia de Uso y apropiación - LI.UA.01
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces es la responsable de definir la estrategia de Uso y Apropiación de TI alineada con la cultura organizacional de la institución, y de asegurar que su desarrollo contribuya con el logro de los objetivos asociados a los proyectos de TI.
+
+Matriz de interesados - LI.UA.02
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con una matriz de caracterización que identifique, clasifique y priorice los grupos de interés involucrados e impactados por los proyectos de TI.
+
+Involucramiento y compromiso - LI.UA.03
+La entidad es responsable de asegurar el involucramiento y compromiso de los grupos de interés, en los proyectos de TI o proyectos que incorporen componentes tecnológicos partiendo desde la alta dirección hacia al resto de los niveles organizacionales, de acuerdo con la matriz de caracterización.
+
+Esquema de incentivos - LI.UA.04
+La entidad con el liderazgo de la Dirección de Tecnologias de la Información o la que haga sus veces es la responsable de identificar y establecer un esquema de incentivos que, alineado con la estrategia de Uso y Apropiación, movilice a los grupos de interés para adoptar favorablemente los proyectos de TI.
+
+Plan de formación - LI.UA.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces es la responsable de asegurar que el plan de formación de la institución incorpore adecuadamente el desarrollo de las competencias internas requeridas en TI.
+
+Preparación para el cambio - LI.UA.06
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces es la responsable de elaborar un plan de gestión del cambio para facilitar el Uso y Apropiación de los proyectos de TI. Este plan debe incluir las prácticas, procedimientos, recursos y herramientas que sean necesarias para lograr el objetivo.
+
+Evaluación del nivel de adopción de TI - LI.UA.07
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con indicadores de Uso y Apropiación para evaluar el nivel de adopción de la tecnología y la satisfacción en su uso, lo cual permitirá desarrollar acciones de mejora y transformación.
+
+Gestión de impactos - LI.UA.08
+La Dirección de Tecnologías y Sistemas de Información en coliderazgo con el área de transformación organizacional o quien haga sus veces son las responsables de administrar los efectos derivados de la implantación de los proyectos de TI.
+
+Sostenibilidad del cambio - LI.UA.09
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces en coliderazgo con el área de transformación organizacional o quien haga sus veces debe asegurar que las transformaciones, resultado de la implantación de los proyectos de TI, tengan continuidad en la institución, hasta formar parte de su cultura organizacional.
+
+Acciones de mejora - LI.UA.10
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe proponer acciones de mejora y transformación a partir del monitoreo de la implementación de su estrategia de Uso y Apropiación y de la aplicación de mecanismos de retroalimentación.

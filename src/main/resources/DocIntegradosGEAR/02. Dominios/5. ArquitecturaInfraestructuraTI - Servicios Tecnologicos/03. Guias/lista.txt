@@ -1,0 +1,14 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\5. ArquitecturaInfraestructuraTI - Servicios Tecnologicos\03. Guias
+
+28/01/2020  10:53 a. m.    <DIR>          .
+28/01/2020  10:53 a. m.    <DIR>          ..
+20/11/2019  10:39 a. m.         1.336.936 01. Gu¡a de Computaci¢n en la nube v1.1.pdf
+20/11/2019  10:40 a. m.           408.623 02. Gu¡a de Computaci¢n en la nube.xlsx
+09/10/2018  12:06 a. m.           662.628 03. Gu¡a del dominio de Servicios Tecnol¢gicos.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:53 a. m.                 0 lista.txt
+               5 archivos      2.408.279 bytes
+               2 dirs  447.122.341.888 bytes libres

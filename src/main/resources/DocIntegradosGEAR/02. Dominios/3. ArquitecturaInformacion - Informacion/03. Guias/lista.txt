@@ -1,0 +1,19 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\3. ArquitecturaInformacion - Informacion\03. Guias
+
+28/01/2020  10:51 a. m.    <DIR>          .
+28/01/2020  10:51 a. m.    <DIR>          ..
+09/10/2018  12:06 a. m.           737.085 01. Gu¡a T‚cnica B sica de Informaci¢n.pdf
+09/10/2018  12:06 a. m.           572.788 02. Gu¡a T‚cnica de Informaci¢n - Administraci¢n del Dato Maestro.pdf
+09/10/2018  12:06 a. m.           614.430 03. Gu¡a T‚cnica - Ciclo de vida del dato.pdf
+09/10/2018  12:06 a. m.           507.814 04. Gu¡a T‚cnica de Informaci¢n - Mapa de Informaci¢n.pdf
+09/10/2018  12:06 a. m.           510.081 05. Gu¡a T‚cnica de Informaci¢n - Migraci¢n del dato.pdf
+09/10/2018  12:06 a. m.           642.257 06. Gu¡a T‚cnica - Gobierno del dato.pdf
+09/10/2018  12:06 a. m.           678.811 07. Gu¡a Como construir el catalogo de componentes de Informaci¢n.pdf
+27/01/2020  07:18 p. m.         4.186.195 08. Gu¡a para la gesti¢n de documentos y expedientes electr¢nicos.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:51 a. m.                 0 lista.txt
+              10 archivos      8.449.553 bytes
+               2 dirs  447.122.747.392 bytes libres

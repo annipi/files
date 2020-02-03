@@ -1,0 +1,41 @@
+Estrategia TI
+
+
+Entendimiento estratégico - LI.ES.01
+Las instituciones de la administración pública deben contar con una estrategia de TI que esté alineada con las estrategias sectoriales, el Plan Nacional de Desarrollo, los planes sectoriales, los planes decenales -cuando existan- y los planes estratégicos institucionales. La estrategia de TI debe estar orientada a generar valor y a contribuir al logro de los objetivos estratégicos.
+
+Definición de la Arquitectura Empresarial - LI.ES.02
+Cada institución debe contar con una definición de Arquitectura Empresarial. Para ello, debe definir una arquitectura de negocio y una arquitectura de TI, en esta última deberá aplicar el Marco de Referencia de Arquitectura Empresarial para la gestión de TI del país. El ejercicio de Arquitectura Empresarial debe ser liderado conjuntamente por la alta dirección de la entidad y la Dirección de Tecnologías de la Información o quien haga sus veces. Mediante un trabajo articulado, la cabeza del sector debe contar con una definición de Arquitectura Empresarial a nivel sectorial que permita materializar su visión estratégica utilizando la tecnología como agente de transformación.
+
+Mapa de ruta de la Arquitectura Empresarial - LI.ES.03
+La institución debe actualizar el Plan Estratégico de Tecnologías de la Información (PETI) con los proyectos priorizados en el mapa de ruta que resulten de los ejercicios de Arquitectura Empresarial e implementar dichos proyectos.
+
+Proceso para evaluar y mantener la Arquitectura Empresarial - LI.ES.04
+Cada institución debe diseñar e implementar un proceso de gobierno, que permita evaluar y mantener actualizada su Arquitectura Empresarial, acorde con los cambios estratégicos, organizacionales, regulatorios y nuevas tendencias tecnológicas. A nivel sectorial, la entidad cabeza de sector deberá coordinar la definición de un proceso de Arquitectura Empresarial o de Planeación Estratégica, que permita evaluar y mantener actualizada la Arquitectura Empresarial del sector.
+
+Documentación de la estrategia de TI en el PETI - LI.ES.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con una estrategia de TI documentada en el Plan Estratégico de las Tecnologías de la Información y Comunicaciones - PETI. El PETI debe contener la proyección de la estrategia para 4 años, y deberá ser actualizado anualmente a razón de los cambios de la estrategia del sector o de la institución, normatividad y tendencias tecnológicas. A nivel sectorial, la entidad cabeza de sector deberá definir los lineamientos, políticas y estrategia de TI sectoriales y plasmarlos en un Plan Estratégico de Tecnologías de la Información sectorial.
+
+Políticas y estándares para la gestión y gobernabilidad de TI - LI.ES.06
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe identificar y definir las políticas y estándares que faciliten la gestión y la gobernabilidad de TI, contemplando por lo menos los siguientes temas: seguridad, continuidad del negocio, gestión de información, adquisición tecnológica, desarrollo e implantación de sistemas de información, acceso a la tecnología y uso de las facilidades por parte de los usuarios. Así mismo, se debe contar con un proceso integrado entre las instituciones del sector que permita asegurar el cumplimiento y actualización de las políticas y estándares de TI.
+
+Plan de comunicación de la estrategia de TI - LI.ES.07
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir e implementar el plan de comunicación de la estrategia, las políticas, los proyectos, los resultados y los servicios de TI.
+
+Participación en proyectos con componentes de TI - LI.ES.08
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe participar de forma activa en la concepción, planeación y desarrollo de los proyectos de la institución que incorporen componentes de TI. Así mismo, debe asegurar la conformidad del proyecto con los lineamientos de la Arquitectura Empresarial definidos para la institución, en lo que respecta a los dominios de TI. La conformidad del proyecto con la arquitectura misional es responsabilidad de las áreas funcionales.
+
+Control de los recursos financieros - LI.ES.09
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe realizar de manera periódica el seguimiento y control de la ejecución del presupuesto y el plan de compras asociado a los proyectos estratégicos definidos en el PETI.
+
+Gestión de proyectos de inversión - LI.ES.10
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe ser la responsable de formular, administrar, ejecutar y hacer seguimiento de las fichas de los proyectos de inversión requeridos para llevar a cabo la implementación de la Estrategia TI. El proceso de gestión de proyectos de inversión debe cumplir con los lineamientos que para este efecto establezca el Departamento Nacional de Planeación (DNP).
+
+Catálogo de servicios de TI - LI.ES.11
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe diseñar y mantener actualizado el catálogo de servicios de TI con los Acuerdos de Nivel de Servicio (ANS) asociados. La cabeza del sector consolidará los Catálogos de servicios de TI del sector.
+
+Evaluación de la gestión de la estrategia de TI - LI.ES.12
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe realizar de manera periódica la evaluación de la Estrategia de TI, para determinar el nivel de avance y cumplimiento de las metas definidas en el PETI.
+
+Tablero de indicadores - LI.ES.13
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con un tablero de indicadores, que permita tener una visión integral de los avances y resultados en el desarrollo de la Estrategia TI. A nivel sectorial, la entidad cabeza de sector, debe contar con un tablero de indicadores del sector.

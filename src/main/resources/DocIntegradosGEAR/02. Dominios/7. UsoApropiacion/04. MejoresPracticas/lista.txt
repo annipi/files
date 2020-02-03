@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 00ED-9EFB
+
+ Directorio de C:\Users\Bs RENTA\Dropbox\DocIntegradosGEAR\02. Dominios\7. UsoApropiacion\04. MejoresPracticas
+
+28/01/2020  10:55 a. m.    <DIR>          .
+28/01/2020  10:55 a. m.    <DIR>          ..
+09/10/2018  12:06 a. m.           500.618 01. AE mejores practicas-uso y apropiacion.pdf
+25/01/2020  08:36 p. m.                92 indexFiles.csv
+28/01/2020  10:55 a. m.                 0 lista.txt
+               3 archivos        500.710 bytes
+               2 dirs  447.122.006.016 bytes libres

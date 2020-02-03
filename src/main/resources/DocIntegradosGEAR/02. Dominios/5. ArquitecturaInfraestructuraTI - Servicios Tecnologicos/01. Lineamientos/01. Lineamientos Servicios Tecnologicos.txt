@@ -1,0 +1,50 @@
+Servicios tecnológicos
+
+
+Directorio de servicios tecnológicos - LI.ST.01
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con un directorio actualizado de sus Servicios Tecnológicos, que le sirva de insumo para administrar, analizar y mejorar los activos de TI.
+
+Elementos para el intercambio de información - LI.ST.02
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe incluir dentro de su arquitectura de Servicios tecnológicos los elementos necesarios para poder realizar el intercambio de información entre las áreas de la institución y las organizaciones externas a escala sectorial y nacional. Las instituciones que son productoras de información geográfica deben incorporar los elementos dentro de la arquitectura de Servicios tecnológicos para constituirse en nodos de la ICDE (Infraestructura Colombiana de Datos Espaciales), de tal forma que se asegure el intercambio de información geo-espacial y geo-referenciada.
+
+Gestión de los Servicios tecnológicos - LI.ST.03
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe gestionar la operación y el soporte de los servicios tecnológicos, en particular, durante la implementación y paso a producción de los proyectos de TI, se debe garantizar la estabilidad de la operación de TI y responder acorde al plan de capacidad.
+
+Acceso a servicios en la Nube - LI.ST.04
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe evaluar como primera opción la posibilidad de prestar o adquirir los Servicios Tecnológicos haciendo uso de la Nube (pública, privada o híbrida), para atender las necesidades de los grupos de interés.
+
+Continuidad y disponibilidad de los Servicios tecnológicos - LI.ST.05
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe garantizar la continuidad y disponibilidad de los servicios Tecnológicos , así como la capacidad de atención y resolución de incidentes para ofrecer continuidad de la operación y la prestación de todos los servicios de la entidad y de TI.
+
+Alta disponibilidad de los Servicios tecnológicos - LI.ST.06
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe implementar capacidades de alta disponibilidad para las infraestructuras críticas y los Servicios Tecnológicos que afecten la continuidad del servicio de la institución, las cuales deben ser puestas a prueba periódicamente.
+
+Capacidad de los Servicios tecnológicos - LI.ST.07
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe velar por la prestación de los servicios de TI, identificando las capacidades actuales de los Servicios Tecnológicos y proyectando las capacidades futuras requeridas para un óptimo funcionamiento.
+
+Acuerdos de Nivel de Servicios - LI.ST.08
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe velar por el cumplimiento de los Acuerdos de Nivel de Servicio (ANS) establecidos para los Servicios Tecnológicos.
+
+Soporte a los servicios tecnológicos - LI.ST.09
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe definir e implementar el procedimiento para atender los requerimientos de soporte de primer, segundo y tercer nivel, para sus servicios de TI, a través de un único punto de contacto como puede ser una mesa de servicio.
+
+Planes de mantenimiento - LI.ST.10
+La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe implementar un plan de mantenimiento preventivo y evolutivo sobre toda la infraestructura y demás Servicios Tecnológicos de la institución.
+
+Control de consumo de los recursos compartidos por Servicios tecnológicos - LI.ST.11
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe identificar, monitorear y controlar el nivel de consumo de los recursos críticos que son compartidos por los Servicios Tecnológicos y administrar su disponibilidad.
+
+Gestión preventiva de los Servicios tecnológicos - LI.ST.12
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe asegurarse de que la infraestructura y demás recursos tecnológicos de la institución cuenten con mecanismos de monitoreo para generar alertas tempranas ligadas a los umbrales de operación que tenga definidos.
+
+Respaldo y recuperación de los Servicios tecnológicos - LI.ST.13
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe contar con mecanismos de respaldo para los servicios tecnológicos críticos de la entidad así como con un proceso periódico de respaldo de la configuración y de la información almacenada en la infraestructura tecnológica, incluyendo la informacion clave de las estaciones de trabajo de los funcionarios de la entidad. . Este proceso debe ser probado periódicamente y debe permitir la recuperación íntegra de los Servicios Tecnológicos.
+
+Análisis de riesgos - LI.ST.14
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe realizar el análisis y gestión de los riegos asociados a su infraestructura tecnológica haciendo énfasis en aquellos que puedan comprometer la seguridad de la información o que puedan afectar la prestación de un servicio de TI.
+
+Seguridad informática - LI.ST.15
+La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe implementar controles de seguridad informática para gestionar los riesgos que atenten contra la disponibilidad, integridad y confidencialidad de la información.
+
+Disposición de residuos tecnológicos - LI.ST.16
+La institución debe implementar un programa de correcta disposición final de los residuos tecnológicos, teniendo en cuenta los lineamientos técnicos con los que cuente el gobierno nacional.
